@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anirban Mahapatra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="./programmer">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirban-mahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="anirban-mahapatra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirban-mahapatra" alt="anirban-mahapatra" /></a> </p>
-
-- 📫 How to reach me **anirbanmahapatra2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
