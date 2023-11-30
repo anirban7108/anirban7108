@@ -19,4 +19,4 @@
 </p></a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anirban-mahapatra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anirban-mahapatra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anirban-mahapatra&show_icons=true&locale=en&theme=tokyonight" alt="anirban-mahapatra" /><p>
-</p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban-mahapatra&&theme=tokyonight" alt="anirban-mahapatra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban-mahapatra&theme=tokyonight" alt="anirban-mahapatra" /></p>
