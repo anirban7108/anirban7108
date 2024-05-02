@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anirban-mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirban-mahapatra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anirbanmahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anirbanmahapatra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anirbanmahapatra2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anirbanmahapatra2003/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@anirbanmahapatra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@anirbanmahapatra2003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anirbanmahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anirbanmahapatra" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anirbanmahapatra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anirbanmahapatra2003" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@anirbanmahapatra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@anirbanmahapatra2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
